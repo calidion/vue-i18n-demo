@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "core-js": "^2.6.5",
+    "node-i18n-core": "^0.2.1",
+    "node-i18n-vue": "^0.2.1",
     "vue": "^2.6.10"
   },
   "devDependencies": {
